@@ -1,5 +1,7 @@
 # Breakout game
 
+Play the game here: https://polinatsv.github.io 
+
 ![Drag Racing](images/screenshot.png)
 
 ## Description
